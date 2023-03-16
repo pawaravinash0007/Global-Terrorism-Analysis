@@ -7,4 +7,4 @@ Programming language : Python , Pandas , matplotlib, Seaborn these libraries we 
 Tools: Jupyter , Google Colab are famous tools we can use 
 
 # Outcome of Project :
-Not only another country but also in our country their are lots of black ships available who implement terrorist attacks. Find their motives , Target location , MOst active terroirst group 
+Not only another country but also in our country their are lots of black ships available who implement terrorist attacks. Find their motives , Target location , Most active terroirst group and convert them in to common people 
